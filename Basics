@@ -1,1 +1,22 @@
+# Python is a general-purpose, high-level language.
+# General in the sense -> it can be implemented for various general purposes and can be used to implement and solve various specific problems as well.
+# High-Level language in the sense -> writing code in this language shall seem like writing English statements, you shall be able to read them and understand them very easily. 
+\n
+#  Python features a dynamic type system and automatic memory management
+and supports multiple programming paradigms, including object-oriented, imperative, functional programming, and procedural styles. It has a large and comprehensive standard library.
 
+# Dynamic type system in the sense -> it dynamically shall allocate memory space for variables and you won't have to allocate memory manually for all the variables you declare.
+# Object-oriented in the sense -> you can create an object analogous to a real-world object. For example, you can define an object called a car and you can set its attributes; such as no. of tyres = four, colour = red. This is one of the best ways to represent real-world objects and is also very neat and less fuzzy. Right!
+# Functional programming in the sense -> you can define functions that can do various specific tasks. 
+
+# Now, Let's make sure you have Python installed in your system. To do that, go to your terminal and write the following code:
+
+# To go to the terminal -> Search for the command prompt after pressing win + R.
+# To check for python version ->  python --version
+
+# For setting up a good code editor, you can choose between a wide variety of editors and all of them have various upsides and downsides. Now, If I talk about myself, I started with Python Foundation's most preferred editor; PyCharm. 
+# I later switched to VSCode and then mostly preferred the Jupyter notebooks until the Collab became one of my preferred choices. 
+
+# So, the larger point being, you can and should explore these stuff yourself and you will notice the difference yourself after a while. 
+
+# This is it for this session, Let's move to the next session now. 
